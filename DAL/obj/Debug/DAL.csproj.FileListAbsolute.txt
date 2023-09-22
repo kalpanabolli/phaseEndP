@@ -1,0 +1,14 @@
+D:\Phaseend\DAL\bin\Debug\DAL.dll
+D:\Phaseend\DAL\bin\Debug\DAL.pdb
+D:\Phaseend\DAL\bin\Debug\nunit.framework.dll
+D:\Phaseend\DAL\bin\Debug\nunit.framework.xml
+D:\Phaseend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Phaseend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Phaseend\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Phaseend\DAL\obj\Debug\DAL.dll
+D:\Phaseend\DAL\obj\Debug\DAL.pdb
+D:\Phaseend\DAL\bin\Debug\DAL.dll.config
+D:\Phaseend\DAL\bin\Debug\EntityFramework.dll
+D:\Phaseend\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Phaseend\DAL\bin\Debug\EntityFramework.xml
+D:\Phaseend\DAL\bin\Debug\EntityFramework.SqlServer.xml
